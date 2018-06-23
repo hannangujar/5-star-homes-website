@@ -1,0 +1,15 @@
+#logo{
+    display: inline-block;
+    margin-right: 50px;
+    background-color: rgb(29, 135, 235);
+    color:white;
+    font-family: 'UnifrakturMaguntia', cursive;
+    cursor: pointer;
+}
+#nav-elements{
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Julius Sans One', sans-serif;
+    padding: 10px;
+}

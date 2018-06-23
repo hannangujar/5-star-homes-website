@@ -1,0 +1,28 @@
+.body{
+  background-color: blueviolet
+}
+.footer{
+    background-color: aqua
+}
+/* .navigation{
+  background-image: url("/home/hannan/Code/ReactJs/five2/src/Navbar/images.jpeg");
+  background-color: #cccccc;
+}
+.navigation ul{
+  background-color: #2a1f1f;
+}
+.navigation ul li{
+  display: inline-block;
+  margin-right: 10px;
+  color:white;
+  text-decoration: none;
+  text-align: center;
+}
+.navigation ul li a{
+  position:flex;
+  font-size: 20px;
+  line-height: 5px;
+  color:white;
+  text-decoration: none;
+  margin-left:20px;
+} */

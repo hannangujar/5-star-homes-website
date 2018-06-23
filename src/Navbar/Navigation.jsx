@@ -36,6 +36,8 @@ export default class Navigation extends Component {
             <Navbar.Toggle />
           </Navbar.Header>
           <Navbar.Collapse>
+
+            
             <Nav>
               <NavItem eventKey={1}>
                 <a id="nav-elements"><NavLink to="/home" style={{ textDecoration: 'none',color: 'rgb(0, 0, 0)' }} activeStyle={{color: 'red' }}> Home</NavLink></a>
